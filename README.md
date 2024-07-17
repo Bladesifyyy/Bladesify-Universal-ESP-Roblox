@@ -1,6 +1,8 @@
 # 「 ✦ Bladesify-Universal-ESP-Roblox ✦ 」
-<h1>loadstring(game:HttpGet("https://raw.githubusercontent.com/Bladesifyyy/Bladesify-Universal-ESP-Roblox/Updates/Lua.Script", true))() </h1>
-
+# Loadstring
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bladesifyyy/Bladesify-Universal-ESP-Roblox/Updates/Lua.Script", true))() 
+```
 # ╰┈➤   :𝑼𝒑𝒅𝒂𝒕𝒆𝒔
 # 1. 𝑭𝒊𝒙𝒆𝒅 Crashes ✅
 # 2. 𝑭𝒊𝒙𝒆𝒅 Offsets ✅
