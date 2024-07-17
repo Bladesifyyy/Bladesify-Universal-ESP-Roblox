@@ -1,6 +1,6 @@
 # 「 ✦ Bladesify-Universal-ESP-Roblox ✦ 」
 # Loadstring
-copy script below & Paste Into Your Executor :)
+__copy script below & Paste Into Your Executor :)__
  ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bladesifyyy/Bladesify-Universal-ESP-Roblox/Updates/Lua.Script", true))() 
 ```
@@ -9,7 +9,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Bladesifyyy/Bladesify
 # 2. 𝑭𝒊𝒙𝒆𝒅 Offsets ✅
 # 3. 𝑭𝒊𝒙𝒆𝒅 Rainbow Bool 🌐
 # 4. 𝑨𝒍𝒍 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝑶𝒑𝒕𝒊𝒐𝒏𝒔 ❗
-
+__Supported Exploits__
+```Rb
+Synapse X      --- Yes
+ProtoSmasher   --- no
+Elysian        --- no
+```
 # Join Our Discord: https://discord.gg/moditgg
 # Subscribe For Tutorials: https://www.youtube.com/@Mod.It.gg.
 
